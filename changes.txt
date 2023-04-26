@@ -1,2 +1,3 @@
 And here I made some actual changes!
-changes for SourceTree
+changes for VS Code
+changes for IDEA
